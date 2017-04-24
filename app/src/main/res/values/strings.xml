@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tab</string>
+    <string name="action_settings">Settings</string>
+    <string name="next">TouchProcessingActivity</string>
+</resources>
